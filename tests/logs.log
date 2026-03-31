@@ -1,0 +1,5 @@
+2026-03-24 14:44:10.929 : Namespace(exp='tests', nb_iter=1, dataset='CSE_CIC', dataset_split=0.1, directed=True, encoder='LineGCN', encoder_patience=250, encoder_epochs=500, egcn_norm='none', bias=False, residual=False, lr=0.001, sage_aggreg='mean', sage_do_sampling=False)
+2026-03-24 14:44:10.930 : CPU used.
+
+2026-03-24 14:44:10.931 : =========== START DATASET NF-CSE-CIC-IDS2018-v2 =========== 
+
